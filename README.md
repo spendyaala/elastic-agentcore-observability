@@ -1,7 +1,7 @@
 # Strands Agent with Elastic Observability on Amazon Bedrock AgentCore Runtime
 
 ## Overview
-This notebook demonstrates deploying a Strands agent to Amazon Bedrock AgentCore Runtime with Elastic observability integration. The implementation uses Amazon Bedrock Claude models and sends telemetry data to Elastic through OpenTelemetry (OTEL).
+This Agentic AI application demonstrates deploying a Strands agent to Amazon Bedrock AgentCore Runtime with Elastic observability integration. The implementation uses Amazon Bedrock Claude models and sends telemetry data to Elastic through OpenTelemetry (OTEL) using [EDOT](https://www.elastic.co/docs/reference/opentelemetry)
 
 ## Key Components
 - **Strands Agents**: Python framework for building LLM-powered agents with built-in telemetry support
